@@ -6,7 +6,7 @@
 ## 바로 사용하기
 
 - **[APAT 실행하기](https://gcanalsdud7-collab.github.io/APAT/)** — 설치 없이 브라우저(Edge, Chrome 권장)에서 열립니다.
-- **[APAT 내려받기](https://github.com/YOUR-ID/APAT/releases/latest/download/APAT.html)** — 파일을 받아 더블클릭하여 실행합니다.
+- **[APAT 내려받기](https://github.com/gcanalsdud7-collab/APAT/releases/latest/download/APAT.html)** — 파일을 받아 더블클릭하여 실행합니다.
 
 - 문제·해설 PDF는 이용자의 컴퓨터 안에서만 처리되며 어떤 서버에도 업로드되지 않습니다.
 - 응시 기록은 사용 중인 브라우저에만 저장됩니다. 다른 기기로 옮기려면 응시 기록 화면의 '기록 내보내기'를 이용하십시오.
